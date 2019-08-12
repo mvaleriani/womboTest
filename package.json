@@ -3,7 +3,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:dev": "webpack-dev-server"
+    "start:dev": "webpack-dev-server",
+    "start": "webpack -watch"
   },
   "author": "Michael Valeriani",
   "license": "ISC",
